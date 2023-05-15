@@ -1,7 +1,3 @@
-# git-and-github-docs
-
-https://github.com/anisul-Islam/github-documentation
-
 # Git & GitHub Documentation
 
 ### [Lesson 2. Introduction to git and GitHub](https://youtu.be/ulTs4vqOzyo)
@@ -20,7 +16,7 @@ https://github.com/anisul-Islam/github-documentation
    - It provides Graphical User Interface (GUI)
    - Founded in 2008
 
-<img src="./images/git and github.png" width="90%">
+<img src="https://github.com/anisul-Islam/github-documentation/raw/master/images/git%20and%20github.png" width="90%">
      
 <br/>
 
@@ -112,7 +108,7 @@ git configuration
 - `git reset HEAD^` uncommit the commit in HEAD and move to unstaging / working area
 - `git reset --hard HEAD^` uncommit the commit in HEAD and delete the commit completely with all the changes
 
-<img src="./images/git-level.png" width="90%">
+<img src="https://github.com/anisul-Islam/github-documentation/raw/master/images/git-level.png" width="90%">
 
 <br/>
 
